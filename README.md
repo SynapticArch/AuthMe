@@ -139,3 +139,12 @@ Thanks also to: AS1LV3RN1NJA, Hoeze and eprimex
 
 ##### GeoIP License:
 This product uses data from the GeoLite API created by MaxMind, available at https://www.maxmind.com
+# Statement
+
+> [!CAUTION]  
+> 本分支仅用于个人开发提供学习研究，请勿直接使用任何附件。如出现任何有关源附件问题，本作者概不负责。
+
+---
+
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
